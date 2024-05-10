@@ -1,11 +1,10 @@
 Libraries:
-Numpy: Utilized for numerical computations, particularly in data preprocessing.
-NLTK (Natural Language Toolkit): Employed for natural language processing tasks such as tokenization and lemmatization.
-TensorFlow-Keras: Used for building, training, and deploying deep learning models, in this case, for the chatbot.
-Random: Used for generating random responses within the chatbot.
-JSON: Utilized for handling data stored in JSON format.
-Pickle: Employed for serializing and deserializing Python objects, used here for storing trained model parameters.
-
+1. Numpy
+2. NLTK (Natural Language Toolkit)
+4. TensorFlow-Keras
+5. Random
+6. JSON
+7. Pickle
 
 Key Features:
 1. The chatbot interacts with users, responding to their messages based on predefined intents and responses stored in a JSON file.
